@@ -1,7 +1,7 @@
 {
-  "name": "polotno-demo",
+  "name": "canva-free",
   "version": "1.0.0",
-  "description": "Basic demo of canvas editor framework",
+  "description": "canva basico",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
